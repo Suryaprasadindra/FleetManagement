@@ -39,11 +39,7 @@ To get started with the Fleet Management Dashboard:
 - Data Visualization
 - Analytics
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-- Special thanks to [any contributors or resources you used].
 
 ## Contact
 For inquiries or feedback, please reach out to Indra at ixchevva@shockers.wichita.edu.
